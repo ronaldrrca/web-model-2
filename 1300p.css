@@ -1,0 +1,12 @@
+#home_icon, #menu_icon{
+    display: none;
+}
+
+#empresa_title{
+    font-size: 2.4rem;
+}
+
+#dropDown_menu{
+    display: flex;
+}
+
