@@ -1,0 +1,23 @@
+#main_image_2_414p{
+    display: none;
+}
+
+#main_image_2_1024p{
+    display: none;
+}
+
+#main_image_2_1300p{
+    display: none;
+}
+
+#main_image_2_768p{
+    display: block;
+}
+
+#main_image_text p{
+    font-size: 8rem;
+}
+
+#main_image_text p:last-child{
+    font-size: 2.4rem;
+}

@@ -17,8 +17,16 @@
             
     </header>
     <main>
-            <figure>
-                <img src="assets/images/main-image-1-414x276.webp" alt="">
+            <figure id="main_image_container">
+                <div id="main_image_text">
+                    <p>DISEÑO</p>
+                    <p>INCREIBLE</p><br>
+                    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nulla inventore voluptate explicabo sed non eligendi iste voluptas perferendis magnam quod.</p>
+                </div>
+                <img id="main_image_2_414p" src="assets/images/main-image-2-414x276.webp" alt="imagen de vitrina de productos">
+                <img id="main_image_2_768p" src="assets/images/main-image-2-768x512.webp" alt="imagen de vitrina de productos">
+                <img id="main_image_2_1024p" src="assets/images/main-image-2-1024x512.webp" alt="imagen de vitrina de productos">
+                <img id="main_image_2_1300p" src="assets/images/main-image-2-1300x512.webp" alt="imagen de vitrina de productos">
             </figure>
     </main>
     <footer>

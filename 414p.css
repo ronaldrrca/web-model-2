@@ -1,5 +1,6 @@
 :root{
     --light-black: #212121;
+    --dark-beige: #D7B398;
 }
 
 /*basic styles*/
@@ -41,6 +42,8 @@ header{
 
 nav{
     position: relative;
+    display: flex;
+    align-items: center;
 }
 
 main{
@@ -48,9 +51,17 @@ main{
     flex-direction: column;
     align-items: center;
     justify-content: center;
+    margin-top: 7rem;
 }
 
 /*header  styles*/
+
+#header_container{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
 
 #home_icon, #menu_icon{
     width: 4rem;
@@ -68,7 +79,7 @@ main{
     display: none;
     position: absolute;
     top: 35px;
-    left: -310px;
+    left: -20px;
     background-color: var(--light-black);
     border-radius: 5px;
 }
@@ -87,6 +98,11 @@ main{
 .dropDown_menu_item{
     display: inline-block;
     margin-left: 2rem;
+    
+}
+
+#dropDown_menu_inicioItem{
+    text-decoration: underline 5px var(--dark-beige);
 }
 
 .mobil_menu_item{
@@ -97,6 +113,14 @@ main{
     font-size: 1.8rem;
     color: #000000;
     text-decoration: none;
+}
+
+.dropDown_menu_item:hover{
+    transform: scale(1.02);
+}
+
+.dropDown_menu_item a:hover{
+    color: #606060;
 }
 
 .mobil_menu_item{
@@ -117,3 +141,47 @@ main{
     top: 95px;
     right: 10px;
 }
+
+
+/*inicio styles*/
+#main_image_2_768p{
+    display: none;
+}
+
+#main_image_2_1024p{
+    display: none;
+}
+
+#main_image_2_1300p{
+    display: none;
+}
+
+#main_image_container{
+    position: relative;
+}
+
+
+
+#main_image_text{
+    position: absolute;
+    top: 40px;
+    left: 10px;
+}
+
+#main_image_text p{
+    font-size: 3.2rem;
+    color: #ffffff;
+    font-weight: 800;
+    max-width: 40rem;
+}
+
+#main_image_text p:first-child{
+    font-weight: normal;
+}
+
+#main_image_text p:last-child{
+    font-size: 1.6rem;
+    color: #ffffff;
+}
+
+

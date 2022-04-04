@@ -1,3 +1,8 @@
+header{
+    padding: 0 4rem;
+}
+
+
 #home_icon, #menu_icon{
     display: none;
 }
@@ -9,4 +14,34 @@
 #dropDown_menu{
     display: flex;
 }
+
+nav{
+    order: 2;
+}
+
+#empresa_title{
+    order: 1;
+    font-size: 2.4rem;
+}
+
+#main_image_2_414p{
+    display: none;
+}
+
+#main_image_2_768p{
+    display: none;
+}
+
+#main_image_2_1024p{
+    display: none;
+}
+
+#main_image_2_1300p{
+    display: block;
+}
+
+
+
+
+
 
