@@ -30,7 +30,7 @@
             </figure>
     </main>
     <footer>
-
+            <?php include 'footer.php' ?>
     </footer>
     <script src="header.js"></script>
 </body>

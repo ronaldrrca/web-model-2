@@ -47,11 +47,26 @@ nav{
 }
 
 main{
+    grid-area: main;
     display: flex;
     flex-direction: column;
     align-items: center;
-    justify-content: center;
+    justify-content: flex-start;
     margin-top: 7rem;
+    min-height: 60rem;
+    background-color: purple;
+}
+
+footer{
+    grid-area: footer;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    background-color: var(--light-black);
+    padding: 3rem 1rem;
+    text-align: center;
+    color: #9e9e9e;
 }
 
 /*header  styles*/
@@ -182,6 +197,52 @@ main{
 #main_image_text p:last-child{
     font-size: 1.6rem;
     color: #ffffff;
+}
+
+
+
+/*Footer styles*/
+#siguenos_footer{
+    margin-bottom: 3rem;
+    font-size: 2.8rem;
+    color: #ffffff;
+    line-height: 4.2rem;
+    text-align: center;
+}
+
+#socialMedia_icons, #cards_icons{
+    width: 30rem;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 3rem;
+}
+
+#cards_icons{
+    margin-bottom: 0;
+}
+
+#socialMedia_icons img{
+    width: 5rem;
+    cursor: pointer;
+}
+
+#cards_icons img{
+    width: 8rem;
+}
+
+#hr_footer{
+    width: 100%;
+    margin-bottom: 3rem;
+    border: 1px solid var(--dark-beige);
+}
+
+#footer_text{
+    font-size: 1.4rem;
+    line-height: 3rem;
+}
+
+#darkBeige_color{
+    color: var(--dark-beige);
 }
 
 
