@@ -34,10 +34,10 @@
     padding: 0 12rem;
 }
 
-#zapatos_movil{
+#zapatos_movil, #ropa_deportiva_movil{
     display: none;
 }
 
-#zapatos_tablet{
+#zapatos_tablet, #ropa_deportiva_tablet{
     display: block;
 }

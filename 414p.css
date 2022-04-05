@@ -16,7 +16,6 @@ html{
 }
 
 body{
-    background-color: #ffffff;
     display: grid;
     grid-template-columns: 100%;
     grid-template-rows: auto auto auto;
@@ -24,6 +23,9 @@ body{
     "header"
     "main"
     "footer";
+    max-width: 150rem;
+    margin: 0 auto;
+    background-color: #ffffff;
 }
 
 header{
@@ -267,12 +269,17 @@ footer{
     font-size: 2.8rem;
     font-weight: bold;
     margin-bottom: 2rem;
+    
 }
 
 .new_collection_beige p:nth-child(2), .new_collection_white p:nth-child(2){
     font-size: 2.4rem;
     color: #838383;
     margin-bottom: 2rem;
+    z-index: 9;
+}
+
+.new_collection_beige p:nth-child(2), .new_collection_white p:nth-child(2){
     z-index: 9;
 }
 
@@ -287,17 +294,19 @@ footer{
     display: flex;
     justify-content: flex-end;
     align-items: center;
+   
 }
 
 .new_collection_text{
     width: 70%;
 }
 
-#zapatos_movil{
+#zapatos_movil, #ropa_deportiva_movil{
     display: block;
+    
 }
 
-#zapatos_tablet{
+#zapatos_tablet, #ropa_deportiva_tablet{
     display: none;
 }
 

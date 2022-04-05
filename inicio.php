@@ -72,13 +72,13 @@
                     </div>
                     <div class="new_collection_white">
                         <div class="new_collection_text">
-                            <p>VESTIDOS</p>
+                            <p>ROPA DEPORTIVA</p>
                             <p>Vea la nueva colección</p>
                             <button>DESCUBRA</button>
                         </div>
                         <figure class="new_collection_image">
-                            <img id="zapatos_movil" src="assets/images/zapatos-movil-122x270.webp" alt="">
-                            <img id="zapatos_tablet" src="assets/images/zapatos-257x270.webp" alt="">
+                            <img id="ropa_deportiva_movil" src="assets/images/ropa-deportiva-movil-122x270.webp" alt="">
+                            <img id="ropa_deportiva_tablet" src="assets/images/ropa-deportiva-221x270.webp" alt="">
                         </figure>
                     </div>
             </section>
