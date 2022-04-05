@@ -40,8 +40,9 @@ nav{
     display: block;
 }
 
-
-
+.new_collection_beige, .new_collection_white{
+    padding: 0 5rem;
+}
 
 
 

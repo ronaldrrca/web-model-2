@@ -21,3 +21,23 @@
 #main_image_text p:last-child{
     font-size: 2.4rem;
 }
+
+#important_text{
+    padding: 2.5rem 0;
+}
+
+#plus{
+    top: 0.7rem;
+}
+
+.new_collection_beige, .new_collection_white{
+    padding: 0 12rem;
+}
+
+#zapatos_movil{
+    display: none;
+}
+
+#zapatos_tablet{
+    display: block;
+}

@@ -28,6 +28,62 @@
                 <img id="main_image_2_1024p" src="assets/images/main-image-2-1024x512.webp" alt="imagen de vitrina de productos">
                 <img id="main_image_2_1300p" src="assets/images/main-image-2-1300x512.webp" alt="imagen de vitrina de productos">
             </figure>
+            <div id="important_text">
+                    <div id="plus">
+                        <div><p>+</p><p>+</p><p>+</p><p>+</p><p>+</p><p>+</p></div>
+                        <div><p>+</p><p>+</p><p>+</p><p>+</p><p>+</p><p>+</p></div>
+                        <div><p>+</p><p>+</p><p>+</p><p>+</p><p>+</p><p>+</p></div>
+                    </div>
+                    <P><b>FRASE IMPORTANTE</b></P>
+                    <P>FRASE DE COMPLEMENTO</P>
+                    <P>Frase de cierre</P>
+            </div>
+            <section id="discover">
+                    <div class="new_collection_beige">
+                        <div class="new_collection_text">
+                            <p>VESTIDOS</p>
+                            <p>Vea la nueva colección</p>
+                            <button>DESCUBRA</button>
+                        </div>
+                        <figure class="new_collection_image">
+                            <img src="assets/images/vestidos-193x270.webp" alt="">
+                        </figure>
+                    </div>
+                    <div class="new_collection_white">
+                        <div class="new_collection_text">
+                            <p>ZAPATOS</p>
+                            <p>Vea la nueva colección</p>
+                            <button>DESCUBRA</button>
+                        </div>
+                        <figure class="new_collection_image">
+                            <img id="zapatos_movil" src="assets/images/zapatos-movil-122x270.webp" alt="">
+                            <img id="zapatos_tablet" src="assets/images/zapatos-257x270.webp" alt="">
+                        </figure>
+                    </div>
+                    <div class="new_collection_beige">
+                        <div class="new_collection_text">
+                            <p>JEANS</p>
+                            <p>Vea la nueva colección</p>
+                            <button>DESCUBRA</button>
+                        </div>
+                        <figure class="new_collection_image">
+                            <img src="assets/images/jeans.webp" alt="">
+                        </figure>
+                    </div>
+                    <div class="new_collection_white">
+                        <div class="new_collection_text">
+                            <p>VESTIDOS</p>
+                            <p>Vea la nueva colección</p>
+                            <button>DESCUBRA</button>
+                        </div>
+                        <figure class="new_collection_image">
+                            <img id="zapatos_movil" src="assets/images/zapatos-movil-122x270.webp" alt="">
+                            <img id="zapatos_tablet" src="assets/images/zapatos-257x270.webp" alt="">
+                        </figure>
+                    </div>
+            </section>
+            
+            
     </main>
     <footer>
             <?php include 'footer.php' ?>

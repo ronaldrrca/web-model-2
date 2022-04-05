@@ -13,3 +13,30 @@
 #main_image_2_1024p{
     display: block;
 }
+
+#important_text{
+    font-size: 3.6rem;
+}
+
+#discover{
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.new_collection_beige, .new_collection_white{
+    width: 50%;
+}
+
+.new_collection_beige, .new_collection_white{
+    padding: 0 1rem;
+}
+
+#discover > div:nth-child(1),
+#discover > div:nth-child(4){
+    background-color: #ffffff;
+}
+
+#discover > div:nth-child(2),
+#discover > div:nth-child(3){
+    background-color: #f2f2f2;
+}
