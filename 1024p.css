@@ -40,3 +40,38 @@
 #discover > div:nth-child(3){
     background-color: #f2f2f2;
 }
+
+.post{
+    width: 30rem;
+}
+
+.post_pc{
+    display: block;
+}
+
+.post_movil, .post_tablet{
+    display: none;
+}
+
+.post button{
+    cursor: pointer;
+}
+
+.new_box button, #see_more_new_products{
+    cursor: pointer;
+}
+
+.new_box button:hover, #see_more_new_products:hover, .new_collection_beige button:hover, .new_collection_white button:hover{
+    transition: all 0.3s;
+    background-color: #f2f2f2;
+    color: var(--dark-beige);
+    border: 2px solid var(--dark-beige);
+}
+
+.post button:hover{
+    transition: all 0.3s;
+    background-color: var(--dark-beige);
+    color: #fff;
+}
+
+

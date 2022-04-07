@@ -41,3 +41,27 @@
 #zapatos_tablet, #ropa_deportiva_tablet{
     display: block;
 }
+
+.new_box{
+    width: 20.9rem;
+    padding-top: 2rem;
+}
+
+.post{
+    width: 45%;
+}
+
+#posts_container{
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: space-around;
+}
+
+.post_tablet{
+    display: block;
+}
+
+.post_movil, #post_pc{
+    display: none;
+}
+

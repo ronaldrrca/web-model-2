@@ -82,7 +82,100 @@
                         </figure>
                     </div>
             </section>
-            
+            <div id="new_title">  
+                    <p>LO NUEVO</p>
+                    <p>Frase complementaria</p>
+            </div>
+            <section id="new">
+                    <div class="new_box">
+                        <img src="assets/images/new_product_1_174x220.webp" alt="">
+                        <div class="new_line"></div>
+                        <p>Nombre producto</p>
+                        <p>$00.000</p>
+                        <button>Ver</button> 
+                    </div>
+                    <div class="new_box">
+                        <img src="assets/images/new_product_2_174x220.webp" alt="">
+                        <div class="new_line"></div>
+                        <p>Nombre producto</p>
+                        <p>$00.000</p>
+                        <button>Ver</button> 
+                    </div>
+                    <div class="new_box">
+                        <img src="assets/images/new_product_3_174x220.webp" alt="">
+                        <div class="new_line"></div>
+                        <p>Nombre producto</p>
+                        <p>$00.000</p>
+                        <button>Ver</button> 
+                    </div>
+                    <div class="new_box">
+                        <img src="assets/images/new_product_4_174x220.webp" alt="">
+                        <div class="new_line"></div>
+                        <p>Nombre producto</p>
+                        <p>$00.000</p>
+                        <button>Ver</button> 
+                    </div>
+                    <div class="new_box">
+                        <img src="assets/images/new_product_5_174x220.webp" alt="">
+                        <div class="new_line"></div>
+                        <p>Nombre producto</p>
+                        <p>$00.000</p>
+                        <button>Ver</button> 
+                    </div>
+                    <div class="new_box">
+                        <img src="assets/images/new_product_6_174x220.webp" alt="">
+                        <div class="new_line"></div>
+                        <p>Nombre producto</p>
+                        <p>$00.000</p>
+                        <button>Ver</button> 
+                    </div>
+            </section>
+            <button id="see_more_new_products">VER MÁS PRODUCTOS NUEVOS</button>
+            <section id="posts">
+                    <p>POSTS RECIENTES</p>
+                    <div id="posts_container">
+                        <article class="post">
+                            <img class="post_movil" src="assets/images/post-1-394x263.webp" alt="">
+                            <img class="post_tablet" src="assets/images/post-1-338x225.webp" alt="">
+                            <img class="post_pc" src="assets/images/post-1-300x200.webp" alt="">
+                            <p id="post_author">Por: Nombre del autor</p>
+                            <p id="post_date">07 NOV 2022</p>
+                            <p id="post_title">Título del post</p>
+                            <p id="post_text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusamus eligendi cupiditate sequi, ea fugit sunt dolorem fugiat suscipit culpa, expedita, ratione voluptate. Cupiditate fuga tempora inventore assumenda obcaecati nisi ab?</p>
+                            <button>LEER MÁS</button>
+                        </article>
+                        <article class="post">
+                            <img class="post_movil" src="assets/images/post-2-394x263.webp" alt="">
+                            <img class="post_tablet" src="assets/images/post-2-338x225.webp" alt="">
+                            <img class="post_pc" src="assets/images/post-2-300x200.webp" alt="">
+                            <p id="post_author">Por: Nombre del autor</p>
+                            <p id="post_date">07 NOV 2022</p>
+                            <p id="post_title">Título del post</p>
+                            <p id="post_text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusamus eligendi cupiditate sequi, ea fugit sunt dolorem fugiat suscipit culpa, expedita, ratione voluptate. Cupiditate fuga tempora inventore assumenda obcaecati nisi ab?</p>
+                            <button>LEER MÁS</button>
+                        </article>
+                        <article class="post">
+                            <img class="post_movil" src="assets/images/post-3-394x263.webp" alt="">
+                            <img class="post_tablet" src="assets/images/post-3-338x225.webp" alt="">
+                            <img class="post_pc" src="assets/images/post-3-300x200.webp" alt="">
+                            <p id="post_author">Por: Nombre del autor</p>
+                            <p id="post_date">07 NOV 2022</p>
+                            <p id="post_title">Título del post</p>
+                            <p id="post_text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusamus eligendi cupiditate sequi, ea fugit sunt dolorem fugiat suscipit culpa, expedita, ratione voluptate. Cupiditate fuga tempora inventore assumenda obcaecati nisi ab?</p>
+                            <button>LEER MÁS</button>
+                        </article>
+                        <article class="post">
+                            <img class="post_movil" src="assets/images/post-4-394x263.webp" alt="">
+                            <img class="post_tablet" src="assets/images/post-4-338x225.webp" alt="">
+                            <img class="post_pc" src="assets/images/post-4-394x263.webp" alt="">
+                            <p id="post_author">Por: Nombre del autor</p>
+                            <p id="post_date">07 NOV 2022</p>
+                            <p id="post_title">Título del post</p>
+                            <p id="post_text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusamus eligendi cupiditate sequi, ea fugit sunt dolorem fugiat suscipit culpa, expedita, ratione voluptate. Cupiditate fuga tempora inventore assumenda obcaecati nisi ab?</p>
+                            <button>LEER MÁS</button>
+                        </article>
+                    </div>
+            </section>
             
     </main>
     <footer>
