@@ -17,11 +17,12 @@
             
     </header>
     <main>
+            <a id="visit" href="https://ronaldweb.com">Visita mi portafolio</a>
             <figure id="main_image_container">
                 <div id="main_image_text">
-                    <p>DISEÑO</p>
+                    <h1>DISEÑO</h1>
                     <p>INCREIBLE</p><br>
-                    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nulla inventore voluptate explicabo sed non eligendi iste voluptas perferendis magnam quod.</p>
+                    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nulla inventore voluptate explicabo sed non eligendi iste voluptas perferendis.</p>
                 </div>
                 <img id="main_image_2_414p" src="assets/images/main-image-2-414x276.webp" alt="imagen de vitrina de productos">
                 <img id="main_image_2_768p" src="assets/images/main-image-2-768x512.webp" alt="imagen de vitrina de productos">
@@ -83,7 +84,7 @@
                     </div>
             </section>
             <div id="new_title">  
-                    <p>LO NUEVO</p>
+                    <h2>LO NUEVO</h2>
                     <p>Frase complementaria</p>
             </div>
             <section id="new">
@@ -132,46 +133,46 @@
             </section>
             <button id="see_more_new_products">VER MÁS PRODUCTOS NUEVOS</button>
             <section id="posts">
-                    <p>POSTS RECIENTES</p>
+                    <h2>POSTS RECIENTES</h2>
                     <div id="posts_container">
                         <article class="post">
                             <img class="post_movil" src="assets/images/post-1-394x263.webp" alt="">
                             <img class="post_tablet" src="assets/images/post-1-338x225.webp" alt="">
                             <img class="post_pc" src="assets/images/post-1-300x200.webp" alt="">
-                            <p id="post_author">Por: Nombre del autor</p>
-                            <p id="post_date">07 NOV 2022</p>
-                            <p id="post_title">Título del post</p>
-                            <p id="post_text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusamus eligendi cupiditate sequi, ea fugit sunt dolorem fugiat suscipit culpa, expedita, ratione voluptate. Cupiditate fuga tempora inventore assumenda obcaecati nisi ab?</p>
+                            <p class="post_author">Por: Nombre del autor</p>
+                            <p class="post_date">07 NOV 2022</p>
+                            <h3 class="post_title">Título del post</h3>
+                            <p class="post_text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusamus eligendi cupiditate sequi, ea fugit sunt dolorem fugiat suscipit culpa, expedita, ratione voluptate. Cupiditate fuga tempora inventore assumenda obcaecati nisi ab?</p>
                             <button>LEER MÁS</button>
                         </article>
                         <article class="post">
                             <img class="post_movil" src="assets/images/post-2-394x263.webp" alt="">
                             <img class="post_tablet" src="assets/images/post-2-338x225.webp" alt="">
                             <img class="post_pc" src="assets/images/post-2-300x200.webp" alt="">
-                            <p id="post_author">Por: Nombre del autor</p>
-                            <p id="post_date">07 NOV 2022</p>
-                            <p id="post_title">Título del post</p>
-                            <p id="post_text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusamus eligendi cupiditate sequi, ea fugit sunt dolorem fugiat suscipit culpa, expedita, ratione voluptate. Cupiditate fuga tempora inventore assumenda obcaecati nisi ab?</p>
+                            <p class="post_author">Por: Nombre del autor</p>
+                            <p class="post_date">07 NOV 2022</p>
+                            <h3 class="post_title">Título del post</h3>
+                            <p class="post_text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusamus eligendi cupiditate sequi, ea fugit sunt dolorem fugiat suscipit culpa, expedita, ratione voluptate. Cupiditate fuga tempora inventore assumenda obcaecati nisi ab?</p>
                             <button>LEER MÁS</button>
                         </article>
                         <article class="post">
                             <img class="post_movil" src="assets/images/post-3-394x263.webp" alt="">
                             <img class="post_tablet" src="assets/images/post-3-338x225.webp" alt="">
                             <img class="post_pc" src="assets/images/post-3-300x200.webp" alt="">
-                            <p id="post_author">Por: Nombre del autor</p>
-                            <p id="post_date">07 NOV 2022</p>
-                            <p id="post_title">Título del post</p>
-                            <p id="post_text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusamus eligendi cupiditate sequi, ea fugit sunt dolorem fugiat suscipit culpa, expedita, ratione voluptate. Cupiditate fuga tempora inventore assumenda obcaecati nisi ab?</p>
+                            <p class="post_author">Por: Nombre del autor</p>
+                            <p class="post_date">07 NOV 2022</p>
+                            <h3 class="post_title">Título del post</h3>
+                            <p class="post_text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusamus eligendi cupiditate sequi, ea fugit sunt dolorem fugiat suscipit culpa, expedita, ratione voluptate. Cupiditate fuga tempora inventore assumenda obcaecati nisi ab?</p>
                             <button>LEER MÁS</button>
                         </article>
                         <article class="post">
                             <img class="post_movil" src="assets/images/post-4-394x263.webp" alt="">
                             <img class="post_tablet" src="assets/images/post-4-338x225.webp" alt="">
                             <img class="post_pc" src="assets/images/post-4-394x263.webp" alt="">
-                            <p id="post_author">Por: Nombre del autor</p>
-                            <p id="post_date">07 NOV 2022</p>
-                            <p id="post_title">Título del post</p>
-                            <p id="post_text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusamus eligendi cupiditate sequi, ea fugit sunt dolorem fugiat suscipit culpa, expedita, ratione voluptate. Cupiditate fuga tempora inventore assumenda obcaecati nisi ab?</p>
+                            <p class="post_author">Por: Nombre del autor</p>
+                            <p class="post_date">07 NOV 2022</p>
+                            <h3 class="post_title">Título del post</h3>
+                            <p class="post_text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusamus eligendi cupiditate sequi, ea fugit sunt dolorem fugiat suscipit culpa, expedita, ratione voluptate. Cupiditate fuga tempora inventore assumenda obcaecati nisi ab?</p>
                             <button>LEER MÁS</button>
                         </article>
                     </div>

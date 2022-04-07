@@ -74,4 +74,6 @@
     color: #fff;
 }
 
-
+#visit:hover{
+    opacity: 0.8;
+}

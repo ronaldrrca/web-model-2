@@ -14,7 +14,7 @@
     display: block;
 }
 
-#main_image_text p{
+#main_image_text p, h1{
     font-size: 8rem;
 }
 
